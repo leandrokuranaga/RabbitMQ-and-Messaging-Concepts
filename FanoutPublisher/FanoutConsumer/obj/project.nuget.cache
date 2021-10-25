@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JG31uDf9CSuhwTGBMcTmWnfExfjC6173Y+KvKnQ71JusC65cA6l9I//LB3f+/tx/KScm+3tJ1DhqC3t5W0sLqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\RabbitMQ and Messaging Concepts\\FanoutPublisher\\FanoutConsumer\\FanoutConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
